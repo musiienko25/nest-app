@@ -1,4 +1,3 @@
-// src/div/div.module.ts
 import { Module } from '@nestjs/common';
 import { DivController } from './div.controller';
 import { DivService } from './div.service';
